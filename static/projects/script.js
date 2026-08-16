@@ -213,7 +213,7 @@ document.addEventListener("DOMContentLoaded", async function () {
             });
             index = 0;
             if (labs.length < 1) {
-                labs = [["We have no labs yet", "We'll add them to the site when we create our labs. Please be as patient as possible."]]
+                labs = [["We have no labs/projects yet", "We'll add them to the site when we create our labs/projects. Please be as patient as possible."]]
             }
         });
     
